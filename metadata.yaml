@@ -1,0 +1,34 @@
+_repo: The-Doctor-s-Christmas-Eve_42923
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42923-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: In the nineteenth-century rural South, country doctors were often much
+  more than just physicians. They played a part in the personal dramas, important
+  milestones, and life-or-death decisions of virtually every family in a fifty-mile
+  radius. In this charming novel, one such doctor reflects on his life over the past
+  year as the holiday season approaches.
+gutenberg_issued: '2013-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42923'
+  lccn: '10028165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+title: The Doctor's Christmas Eve
+url: http://www.gutenberg.org/ebooks/42923
